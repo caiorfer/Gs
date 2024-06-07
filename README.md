@@ -10,7 +10,7 @@ Axios
 Docker
 *Instalação*
 Clone este repositório:
-git clone https://github.com/seu-usuario/nome-do-repositorio.](https://github.com/caiorfer/Gs.git
+git clone https://github.com/caiorfer/Gs.git
 
 Navegue até o diretório do projeto:
 cd nome-do-repositorio
