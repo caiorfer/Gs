@@ -12,3 +12,5 @@ services:
       - .:/app
     environment:
       - NODE_ENV=development
+volumes:
+  data-volume:
